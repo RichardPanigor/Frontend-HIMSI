@@ -42,8 +42,8 @@
                                                     </td>
                                                     <td class="si-text">
                                                         <div class="product-selected">
-                                                            <p>$60.00 x 1</p>
-                                                            <h6>Kabino Bedside Table</h6>
+                                                            <p>Rp 30.000 x 5</p>
+                                                            <h6>Totebag HIMSI</h6>
                                                         </div>
                                                     </td>
                                                     <td class="si-close">
@@ -56,8 +56,8 @@
                                                     </td>
                                                     <td class="si-text">
                                                         <div class="product-selected">
-                                                            <p>$60.00 x 1</p>
-                                                            <h6>Kabino Bedside Table</h6>
+                                                            <p>Rp 30.000 x 5</p>
+                                                            <h6>Totebag HIMSI</h6>
                                                         </div>
                                                     </td>
                                                     <td class="si-close">
@@ -69,7 +69,7 @@
                                     </div>
                                     <div class="select-total">
                                         <span>total:</span>
-                                        <h5>$120.00</h5>
+                                        <h5>Rp 300.000</h5>
                                     </div>
                                     <div class="select-button">
                                         <a href="#" class="primary-btn view-card">VIEW CARD</a>
